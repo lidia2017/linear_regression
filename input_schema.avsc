@@ -1,0 +1,111 @@
+{
+   "type": "record",
+   "name": "cc_input",
+    "fields": [
+		{
+			"name": "id",
+			"type": "int"
+			
+		},
+		{
+			"name": "date",
+			"type": "string"
+			
+		},
+		{
+			"name": "price",
+			"type": "int"
+			
+		},
+		{
+			"name": "bedrooms",
+			"type": "int"
+			
+		},
+		{
+			"name": "bathrooms",
+			"type": "string"
+			
+		},
+		{
+			"name": "sqft_living",
+		    "type": "int"
+			
+		},
+		{
+			"name": "sqft_lot",
+		    "type": "int"
+			
+		},
+		{
+			"name": "floors",
+			"type": "float"
+			
+		},
+		{
+			"name": "waterfront",
+			"type": "int"
+			
+		},
+		{
+			"name": "view",
+			"type": "int"
+			
+		},
+		{
+			"name": "condition",
+		    "type": "int"
+			
+		},
+		{
+			"name": "grade",
+			"type": "int"
+			
+		},
+		{
+			"name": "sqft_above",
+			"type": "int"
+			
+		},
+		{
+			"name": "sqft_basement",
+			"type": "int"
+			
+		},
+		{
+			"name": "yr_built",
+			"type": "gYear"
+			
+		},
+		{
+			"name": "yr_renovated",
+			"type": "int"
+			
+		},
+		{
+			"name": "zipcode",
+			"type": "int"
+			
+		},
+		{
+			"name": "lat",
+			"type": "float"
+			
+		},
+		{
+			"name": "long",
+			"type": "float"
+			
+		},
+		{
+			"name": "sqft_living15",
+			"type": "string"
+			
+		},
+		{
+			"name": "sqft_lot15",
+			"type": "int"
+			
+		}
+	]
+}
