@@ -27,7 +27,7 @@ import pickle
 #modelop.init
 def begin():
     global explainer, lr_model, features
-    model_artifacts = pickle.load(open("Regression_Model_v2.pkl", "rb"))
+    model_artifacts = pickle.load(open("Regression_Model_v3.pkl", "rb"))
     explainer = model_artifacts['explainer']
     lr_model = model_artifacts['reg_model']
     features = model_artifacts['features']
