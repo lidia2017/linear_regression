@@ -8,11 +8,6 @@
 			
 		},
 		{
-			"name": "date",
-			"type": "string"
-			
-		},
-		{
 			"name": "price",
 			"type": "int"
 			
@@ -20,11 +15,6 @@
 		{
 			"name": "bedrooms",
 			"type": "int"
-			
-		},
-		{
-			"name": "bathrooms",
-			"type": "float"
 			
 		},
 		{
@@ -39,7 +29,7 @@
 		},
 		{
 			"name": "floors",
-			"type": "float"
+			"type": "int"
 			
 		},
 		{
@@ -85,16 +75,6 @@
 		{
 			"name": "zipcode",
 			"type": "int"
-			
-		},
-		{
-			"name": "lat",
-			"type": "float"
-			
-		},
-		{
-			"name": "long",
-			"type": "float"
 			
 		},
 		{
