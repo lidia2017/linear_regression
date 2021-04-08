@@ -24,17 +24,17 @@
 		},
 		{
 			"name": "bathrooms",
-			"type": "string"
+			"type": "float"
 			
 		},
 		{
 			"name": "sqft_living",
-		    "type": "int"
+		        "type": "int"
 			
 		},
 		{
 			"name": "sqft_lot",
-		    "type": "int"
+		        "type": "int"
 			
 		},
 		{
@@ -54,7 +54,7 @@
 		},
 		{
 			"name": "condition",
-		    "type": "int"
+		        "type": "int"
 			
 		},
 		{
@@ -99,7 +99,7 @@
 		},
 		{
 			"name": "sqft_living15",
-			"type": "string"
+			"type": "int"
 			
 		},
 		{
